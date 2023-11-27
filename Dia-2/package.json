@@ -5,6 +5,9 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node .",
+    "heranca": "ts-node course/Superclass.ts",
+    "interface": "ts-node course/MyInterface.ts",
+    "logger": "ts-node course/Logger.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
