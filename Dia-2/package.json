@@ -8,6 +8,9 @@
     "heranca": "ts-node course/Superclass.ts",
     "interface": "ts-node course/MyInterface.ts",
     "logger": "ts-node course/Logger.ts",
+    "exer": "ts-node course/Exercicio.ts",
+    "lanc": "ts-node course/Exercicio/index.ts",
+    "data": "ts-node course/Exercicio/Data.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
